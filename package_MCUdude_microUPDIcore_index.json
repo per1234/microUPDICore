@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "microUPDIcore",
-      "maintainer": "aaaMCUdude",
+      "maintainer": "MCUdude",
       "websiteURL": "https://github.com/MCUdude/microUPDIcore",
       "email": "",
       "help": {
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "microUPDIcore",
+          "name": "aaamicroUPDIcore",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",

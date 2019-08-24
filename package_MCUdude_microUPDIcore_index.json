@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "microUPDIcore",
-      "maintainer": "MCUdude",
+      "maintainer": "aaaMCUdude",
       "websiteURL": "https://github.com/MCUdude/microUPDIcore",
       "email": "",
       "help": {
@@ -14,10 +14,10 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://MCUdude.github.io/microUPDIcore/microUPDIcore-1.0.0.tar.gz",
+          "url": "https://github.com/per1234/microUPDIcore/raw/vid_pid-override-test/microUPDIcore-1.0.0.tar.bz2",
           "archiveFileName": "microUPDIcore-1.0.0.tar.bz2",
-          "checksum": "SHA-256:d0079e55a786639e1352abdb919d3c4a96971893c50a4f3094df71978f392121",
-          "size": "33575",
+          "checksum": "SHA-256:0fb04995394df896e2a13771e63c60c3a72039b46605d0f48610a9855219a457",
+          "size": "33714",
           "boards": [
             {"name": "microUPDI Firmware Uploader"}
           ],
